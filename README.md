@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @norawtl
 - 👀 I’m interested in fps games, dogs, hamsters, learning languages.
 - 🌱 I’m currently learning ...python, C and German.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Pls reach me via email
+- Still learning for basic, trying to build a small deeplearning model for myself to recognize the edge of a issued jet in schlieren photos.
 
 <!---
 norawtl/norawtl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
